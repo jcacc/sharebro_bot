@@ -1,6 +1,3 @@
-
-# app id: 1096599555962839202
-# https://discord.com/api/oauth2/authorize?client_id=1096599555962839202&permissions=8&scope=bot
 import os
 import discord
 from discord.ext import commands
